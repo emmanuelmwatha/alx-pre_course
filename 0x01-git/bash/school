@@ -1,9 +1,4 @@
-
-
-The school is open
-
-
-
-
+#!/bin/bash
+echo "ALX school is open"
 
 
